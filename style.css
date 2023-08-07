@@ -6,8 +6,61 @@ body {
   background: #ffcd9e;
   display: flex;
   justify-content: space-between;
-  padding: 50px 120px;
+  padding: 50px 200px;
 }
 
+.right-header img {
+  width: 300px;
+}
 .left-header h2 {
+  font-size: 30px;
+}
+.left-header p {
+  font-size: 20px;
+}
+.input {
+  border: 3px solid #282828;
+  height: 29px;
+  padding-right: 130px;
+  border-radius: 7px;
+  margin-right: 20px;
+}
+.btn {
+  background: #181516;
+  height: 35px;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 7px;
+}
+.last-line {
+  color: white;
+}
+.footer {
+  background: #282828;
+  padding: 25px 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-footer ul {
+  list-style-type: none;
+}
+
+.left-footer li {
+  margin-bottom: 15px;
+  font-size: 17px;
+  color: white;
+}
+
+.right-footer {
+  color: white;
+}
+.right-footer div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.email {
+  padding-top: 20px;
 }
