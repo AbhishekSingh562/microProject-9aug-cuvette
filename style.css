@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background: #ffcd9e;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 120px;
+}
+
+.left-header h2 {
+}
